@@ -1,3 +1,8 @@
+# Simple Medical Record for Personal Use (CRUD only)
+No security measures added (localhost only please)
+I made this by my friend's request. Feel free to use
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
